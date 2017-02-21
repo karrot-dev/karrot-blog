@@ -9,8 +9,8 @@ export default class Header extends React.Component {
       <header>
         <div className="links">
           <Link to={prefixLink('/team/')}>Team</Link>
-          <Link to="https://github.com/yunity">Github</Link>
-          <Link to="https://yunity.atlassian.net/wiki/display/FSINT">Wiki</Link>
+          <a href="https://github.com/yunity">Github</a>
+          <a href="https://yunity.atlassian.net/wiki/display/FSINT">Wiki</a>
         </div>
         <Link to={prefixLink('/')} ><img src="/logo.svg"/></Link>
           <div><a href="https://foodsaving.world">Foodsaving Worldwide</a></div>
