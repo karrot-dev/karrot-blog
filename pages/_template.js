@@ -9,7 +9,7 @@ import Header from '../components/header'
 const style = {
   Container: {
     maxWidth: rhythm(24),
-    padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`
+    padding: `0 ${rhythm(1.5)}`
   }
 }
 
