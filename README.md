@@ -1,5 +1,5 @@
 # Foodsaving development blog
-https://devblog.foodsaving.world
+https://blog.foodsaving.world
 
 ## Running in live edit mode
 `gatsby develop`
