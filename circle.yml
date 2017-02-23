@@ -1,0 +1,15 @@
+machine:
+  node:
+    version: 6.1.0
+dependencies:
+  post:
+    - npm run build
+general:
+  artifacts:
+    - public
+deployment:
+  master:
+    branch: master
+    owner: yunity
+    commands:
+      - ./deploy.sh
