@@ -1,5 +1,6 @@
 ---
 title: Welcome!
+author: Janina
 date: "2017-02-23T20:40:32.169Z"
 layout: post
 path: "/welcome/"
