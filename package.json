@@ -56,7 +56,7 @@
   "scripts": {
     "dev": "gatsby develop",
     "lint": "./node_modules/.bin/eslint --ext .js,.jsx --ignore-pattern public .",
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo \"No tests...\" && exit 0",
     "develop": "gatsby develop",
     "build": "gatsby build"
   },
