@@ -1,0 +1,45 @@
+<div class="home">
+
+  <ul class="post-list">
+    {% assign grouped_posts=site.posts | group_by:"ref" %}
+    {% for translations in grouped_posts %}
+      {% assign default_post=translations.items | where:"lang", site.default_lang %}
+      {% assign priority_post=translations.items | where:"lang", page.lang %}
+      {% assign lang_not_available = true %}
+      {% if priority_post.size > 0 %}
+        {% assign post=priority_post.first %}
+        {% assign lang_not_available = false %}
+      {% elsif default_post.size > 0 %}
+        {% assign post=default_post.first %}
+      {% else %}
+        {% assign post=translations.items.first %}
+      {% endif %}
+      <li>
+
+        <span class="post-meta"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time>
+          {% if post.author %}
+            {% assign author = site.authors[post.author] %}
+            {% assign translator = site.authors[post.translator] %}
+            • {% if author.web %}<a href="{{ author.web }}">{% endif %}<span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ author.display_name }}</span></span>{% if author.web %}</a>{% endif %}
+            {% if post.orig-lang != post.lang %}<br />{{ site.orig-lang[page.lang] }} {{ post.orig-lang }}{% if post.translator %} • {{ site.translator[page.lang] }} {{ translator.display_name }}{% endif %}{% endif %}
+          {% endif %}
+          {% if post.lang != page.lang %}
+          <br /><span><a href="{{ site.translate_url }}">{{ site.help_translate[page.lang] }}</a></span>
+          {% endif %}
+        </span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+
+        <div class="post-content" itemprop="articleBody">
+          {{ post.excerpt }}
+          <a class="post-read-more" href="{{ post.url | prepend: site.baseurl }}">{{ site.read_more[page.lang] }}</a>
+        </div>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe"><a href="{{ site.feed[page.lang] | prepend: site.baseurl }}">{{ site.rss[page.lang] }}</a></p>
+
+</div>

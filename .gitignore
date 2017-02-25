@@ -1,5 +1,6 @@
-node_modules/
-*.log
-public
-.gatsby-context.js
-.DS_Store
+Gemfile.lock
+Gemfile
+_site
+.sass-cache
+.jekyll-metadata
+public/

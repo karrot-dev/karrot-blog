@@ -1,0 +1,57 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title:
+  en: foodsaving.world blog
+  de: foodsaving.world Blog
+email: info@yunity.org
+description:
+  en: Presenting the latest progress in the development of foodsaving.world
+  de: Presenting the latest progress in the development of foodsaving.world
+index:
+  en: index.en.html
+  de: index.de.html
+feed:
+  en: feed.en.xml
+  de: feed.de.xml
+help_translate:
+  en: Help to translate this post into english
+  de: Hilf mit, diesen Beitrag auf Deutsch verfügbar zu machen
+rss:
+  en: subscribe via RSS
+  de: als RSS-Feed abonnieren
+read_more:
+  en: read more...
+  de: weiterlesen...
+orig-lang:
+  en: published in
+  de: "Originalsprache:"
+translator:
+  en: translated by
+  de: übersetzt von
+default_lang: en
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://blog.foodsaving.world" # the base hostname & protocol for your site
+translate_url: https://github.com/yunity/foodsaving-blog
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md", "vendor"]
+
+excerpt_separator: <!--more-->
+
+authors:
+  nick:
+    display_name: Nick Sellen
+    web: http://nicksellen.co.uk
+  matthias:
+    display_name: Matthias Larisch
+  janina:
+    display_name: Janina Abels
+  fenja:
+    display_name: Fenja
