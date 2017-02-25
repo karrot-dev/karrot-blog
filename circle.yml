@@ -1,6 +1,4 @@
 dependencies:
-  override:
-    - bundle install
   post:
     - bundle exec jekyll build
 test:
