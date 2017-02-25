@@ -9,7 +9,7 @@ general:
     - _site
 deployment:
   master:
-    branch: [master, jekyll]
+    branch: master
     owner: yunity
     commands:
       - ./deploy.sh
