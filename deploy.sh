@@ -12,4 +12,4 @@ fi
 
 echo "deploying blog branch [$BRANCH] to [$HOST]"
 
-rsync -avz --delete public/ deploy@$HOST:foodsaving-blog/$BRANCH/
+rsync -avz --delete _site/ deploy@$HOST:foodsaving-blog/$BRANCH/

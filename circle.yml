@@ -1,15 +1,15 @@
-machine:
-  node:
-    version: 6.1.0
 dependencies:
   post:
-    - npm run build
+    - bundle exec jekyll build
+test:
+  override:
+    - "true"
 general:
   artifacts:
-    - public
+    - _site
 deployment:
   master:
-    branch: master
+    branch: [master, jekyll]
     owner: yunity
     commands:
       - ./deploy.sh
