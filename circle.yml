@@ -3,7 +3,7 @@ dependencies:
     - bundle exec jekyll build
 test:
   override:
-    - true
+    - "true"
 general:
   artifacts:
     - _site
