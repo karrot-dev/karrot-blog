@@ -7,11 +7,6 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## GitLab CI
-
-This project's static Pages are built by [GitLab CI][ci], following the steps
-defined in [`.gitlab-ci.yml`](.gitlab-ci.yml).
-
 ## Building locally
 
 To work locally with this project, you'll have to follow the steps below:
