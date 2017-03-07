@@ -59,5 +59,13 @@ $on-laptop:        800px;
 }
 
 .team-member {
+  float: left;
   padding: 30px;
+  text-align: center;
+  img {
+    border-radius: 160px;
+    width: 150px;
+    height: 150px;
+    margin-bottom: 10px;
+  }
 }

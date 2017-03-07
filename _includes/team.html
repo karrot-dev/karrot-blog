@@ -18,9 +18,8 @@
       <div>
         <img height="100px" src="{{ post.img }}">
       </div>
-      <p>{{ post.role }}</p>
-      <p>{{ post.desc }}</p>
-      <a href="{{ post.contact }}">Contact</a>
+      <div class="role">{{ post.role }}</div>
+      <div class="contact"><a href="{{ post.contact }}">Contact</a></div>
     </div>
 
   {% endfor %}
