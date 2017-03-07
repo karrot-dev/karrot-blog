@@ -9,7 +9,7 @@
 title:
   en: foodsaving.world blog
   de: foodsaving.world Blog
-email: info@yunity.org
+email: fstool@yunity.org
 description:
   en: Presenting the latest progress in the development of foodsaving.world
   de: Presenting the latest progress in the development of foodsaving.world
@@ -55,3 +55,7 @@ authors:
     display_name: Janina Abels
   fenja:
     display_name: Fenja
+  tilmann:
+    display_name: Tilmann Becker
+  lars:
+    display_name: Lars Wolf
