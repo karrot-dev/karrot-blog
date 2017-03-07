@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the development blog of foodsharing.de
+This is the development blog of foodsaving.world
