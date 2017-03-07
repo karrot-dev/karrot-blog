@@ -59,3 +59,6 @@ authors:
     display_name: Tilmann Becker
   lars:
     display_name: Lars Wolf
+
+collections:
+  - members
