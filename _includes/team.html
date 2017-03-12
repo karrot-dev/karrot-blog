@@ -16,10 +16,12 @@
     <div class="team-member">
       <h3>{{ post.name }}</h3>
       <div>
-        <img height="100px" src="{{ post.img }}">
+        <img src="{{ post.img }}" />
       </div>
       <div class="role">{{ post.role }}</div>
-      <div class="contact"><a href="{{ post.contact }}">Contact</a></div>
+      <div class="contact">
+        <a href="{{ post.contact }}"></a>
+      </div>
     </div>
 
   {% endfor %}
