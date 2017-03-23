@@ -1,21 +1,25 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
-
-- [GitLab CI](#gitlab-ci)
-- [Building locally](#building-locally)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 ## Building locally
 
-To work locally with this project, you'll have to follow the steps below:
+To work locally with this project, you need Jekyll.
 
-1. Fork, clone or download this project
-1. [Install][] Jekyll
-1. Generate the website: `jekyll build -d public`
-1. Preview your project: `jekyll serve`
-1. Add content
+1. Install `ruby` and `gem` from your package manager.
+1. Install bundler: `gem install bundler`
+
+Then fork or clone this repository and get the bundle dependencies:
+
+```sh
+git clone https://github.com/yunity/foodsaving-blog
+cd foodsaving-blog
+bundle install
+```
+
+Run Jekyll locally:
+
+```sh
+bundle exec jekyll serve
+```
+
+It will show you a link. Open it in your browser. If you change source files, it will automatically rebuild, but it won't reload the page, so take care to reload manually.
 
 ## Editing
 
