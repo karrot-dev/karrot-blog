@@ -12,8 +12,6 @@ One of the biggest completed task recently is the implementation of recurring pi
 
 After long struggles with timezones, daylight saving time and the implications of such for a user base that will hopefully be distributed over the whole globe, @tiltec prevailed!
 
-<!--more-->
-
 Now users can create pick-ups as series, meaning that if you know that a store allows for pick-ups e.g. every tuesday and thursday at 6pm, you can enter this with one single command, yay!
 
 ![recurring pickups screenshot](/images/recurring-pickups.png)
