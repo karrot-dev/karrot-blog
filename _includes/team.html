@@ -1,0 +1,28 @@
+<div>
+  {% assign grouped_posts=site.members | group_by:"name" %}
+  {% for translations in grouped_posts %}
+    {% assign default_post=translations.items | where:"lang", site.default_lang %}
+    {% assign priority_post=translations.items | where:"lang", page.lang %}
+    {% assign lang_not_available = true %}
+    {% if priority_post.size > 0 %}
+      {% assign post=priority_post.first %}
+      {% assign lang_not_available = false %}
+    {% elsif default_post.size > 0 %}
+      {% assign post=default_post.first %}
+    {% else %}
+      {% assign post=translations.items.first %}
+    {% endif %}
+
+    <div class="team-member">
+      <h3>{{ post.name }}</h3>
+      <div>
+        <img src="{{ post.img }}" />
+      </div>
+      <div class="role">{{ post.role }}</div>
+      <div class="contact">
+        <a href="{{ post.contact }}"></a>
+      </div>
+    </div>
+
+  {% endfor %}
+</div>
