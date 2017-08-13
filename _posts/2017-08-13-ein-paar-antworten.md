@@ -8,6 +8,10 @@ orig-lang: de
 author: tilmann
 ---
 
+In den letzten Tagen gab es ein paar Fragen, das habe ich zum Anlass genommen sie öffentlich zu beantworten.
+
+<!--more-->
+
 ### Die vielen Seiten, Namen, Organisationen sind verwirrend. Ein kurzer Überblick wäre hilfreich.
 
 foodsharing.de ([Infos auf Wikipedia](https://de.wikipedia.org/wiki/Foodsharing.de)) meint mehrere Dinge zugleich:
