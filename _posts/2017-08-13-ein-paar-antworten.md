@@ -16,7 +16,7 @@ In den letzten Tagen gab es ein paar Fragen. Das nehme ich nun zum Anlass, sie a
 
 foodsharing.de ([Infos auf Wikipedia](https://de.wikipedia.org/wiki/Foodsharing.de)) meint mehrere Dinge zugleich:
 - den foodsharing e.V. mit Sitz in Köln
-- eine Webseite, auf der Leute von privat zu privat essen tauschen können
+- eine Webseite, auf der Leute von privat zu privat Lebensmittel tauschen können
 - eine Webseite, auf der sich Leute organisieren, um von Betrieben überschüssige Lebensmittel abzuholen und zu verteilen
 
 [foodsaving.world](https://foodsaving.world) ist eine neue Webseite, die für Lebensmittelretter-Gruppen aus der ganzen Welt gedacht ist. Die Seite wurde basierend auf den Erfahrungen mit foodsharing.de konzipiert. Die Software hinter foodsaving.world nennen wir "foodsaving-tool".
