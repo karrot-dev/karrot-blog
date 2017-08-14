@@ -8,7 +8,7 @@ orig-lang: de
 author: tilmann
 ---
 
-In den letzten Tagen gab es ein paar Fragen, das habe ich zum Anlass genommen sie öffentlich zu beantworten.
+In den letzten Tagen gab es ein paar Fragen. Das nehme ich nun zum Anlass, sie an dieser Stelle öffentlich zu beantworten.
 
 <!--more-->
 
