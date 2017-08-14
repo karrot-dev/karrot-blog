@@ -26,7 +26,7 @@ foodsharing.de ([Infos auf Wikipedia](https://de.wikipedia.org/wiki/Foodsharing.
 [yunity.org](https://yunity.org) ist ein Netzwerk von Menschen und Projekten, die das bedingungslose Teilen leben und fördern.
 
 
-### Darf man euch Vorschläge schicken, was man bei der neuen Webseite einbauen könnte, was bei der aktuellen [foodsharing.de-Webseite](https://foodsharing.de) nicht ist?
+### Darf man euch Vorschläge schicken, was man bei eurer Webseite einbauen könnte, was bei der aktuellen [foodsharing.de-Webseite](https://foodsharing.de) nicht ist?
 
 Ja, sehr gerne! Da wir nicht die foodsharing.de-Webseite identisch nachbauen, haben wir sehr viele Freiheiten und wollen die _beste_ Lösung für alle Benutzer finden. Vorschläge und Rückmeldungen freuen uns sehr!
 
@@ -43,7 +43,7 @@ Die Webseite-Instandhaltung von foodsharing.de wird derzeit von Matthias bewält
 
 Es gibt die neue offene AG ["foodsharing International" auf foodsharing.de](https://foodsharing.de/?page=groups) zur gegenseitigen Information von Deutschland, Schweiz, Österreich, uns und anderen internationalen Gruppen. Tilmann und Janina von foodsaving.world sind dort Mitglied. Allerdings wurden bisher noch keine Inhalte veröffentlicht.
 
-### Gibt es schon ein ganz, ganz grobes Datum wann eure Seite die alte Seite ablösen wird?
+### Gibt es schon ein ganz, ganz grobes Datum wann eure Seite die alte Seite (foodsharing.de) ablösen wird?
 
 foodsaving.world ist eine Neuentwicklung, die ganz absichtlich Dinge anders löst als foodsharing.de. Daher ist es momentan nicht geplant, die foodsharing.de-Seite damit zu ersetzen.
 
@@ -55,7 +55,7 @@ Wir haben es gerne, wenn foodsaving.world benutzt wird! Wenn du Interesse hast, 
 
 Wir freuen uns auf euch!
 
-Zum Thema _übertragen_ jedoch vorab einige Hinweise: derzeit fehlen auf foodsaving.world Funktionen, die auf foodsharing.de viel benutzt werden (Hierarchien, Betriebsteams, Forum, Chat). Zudem gibt es keine Möglichkeit, die Daten automatisch zu übertragen. Betriebsinformationen und Abholzeiten müssen also händisch kopiert werden. Die Benutzerkonten sind nicht von foodsharing.de übertragbar, die Gruppenmitglieder müssen sich selbstständig auf foodsaving.world anmelden (oder mit der neuen Einladungs-Funktion hinzugefügt werden).
+Zum Thema _übertragen_ jedoch vorab einige Hinweise: derzeit fehlen auf foodsaving.world Funktionen, die auf foodsharing.de viel benutzt werden (Hierarchien, Betriebsteams, Forum, Chat). Zudem gibt es keine Möglichkeit, die Daten automatisch zu übertragen. Betriebsinformationen und Abholzeiten müssen also händisch kopiert werden. Die Gruppenmitglieder müssen sich selbstständig auf foodsaving.world anmelden (oder mit der neuen Einladungs-Funktion hinzugefügt werden), da die Benutzerkonten nicht von foodsharing.de übertragbar sind.
 
 ### Kann man euch irgendwie helfen, auch wenn man technisch null Plan hat? Wo braucht ihr helfende Hände aus der Ferne?
 
@@ -75,9 +75,9 @@ Ab und zu veranstalten wir Entwicklertreffen oder andere Events. Diese veröffen
 
 ### Ich würde gerne in die foodsaving.world-Entwicklung einsteigen und habe bereits ein paar Kenntnisse. Wie kann ich mitmachen? Gibt es eine Liste mit Aufgaben?
 
-Das klingt wie Honig in meinen Ohren! :) Wir haben ein paar Aufgaben in [GitHub Issues](https://github.com/yunity/foodsaving-frontend/issues) und in der [Roadmap]((https://github.com/yunity/foodsaving-frontend/blob/master/ROADMAP.md)). 
+Das klingt wie Musik in meinen Ohren! :) Wir haben ein paar Aufgaben in [GitHub Issues](https://github.com/yunity/foodsaving-frontend/issues) und in der [Roadmap]((https://github.com/yunity/foodsaving-frontend/blob/master/ROADMAP.md)). 
 
-Meistens brauchst du noch zusätzliche Infos, um sie zu bearbeiten. Wir helfen gerne im [yunity-Chat](https://slackin.yunity.org) aus!
+Meistens brauchst du noch zusätzliche Infos, um die Aufgaben zu bearbeiten. Wir helfen gerne im [yunity-Chat](https://slackin.yunity.org) aus!
 
 
 ![](https://raw.githubusercontent.com/yunity/foodsaving-frontend/83621b6b1004fd21573169de9209329e0f877288/client/app/components/group/pickupFeedback/cart.png)
