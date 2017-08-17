@@ -61,7 +61,7 @@ Whe it comes to _transferring_ already existing groups from foodsharing.de thoug
 
 Yes. Improving communication with the different foodsaving groups for example.
 
-We could e.g. translate the relevant paragraphs from the [_yunity heartbeat_](https://yunity.org/en/heartbeat), that gets published every twoo weeks, and make them available to foodsharing.de circles.
+We could e.g. translate the relevant paragraphs from the [_yunity heartbeat_](https://yunity.org/en/heartbeat), that gets published every two weeks, and make them available to foodsharing.de circles.
 
 And if foodsharing.de groups were to publicly share their success stories, annual reports and ways to deal with common problems, it would be great to translate those as well. Then we could publish them to [foodsaving.today](https://foodsaving.today/en). The articles are shared e.g. via facebook and could serve as inspiration for other people to start foodsaving as well.
 
