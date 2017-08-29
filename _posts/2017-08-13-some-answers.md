@@ -14,7 +14,7 @@ There were some questions coming up over the last few days. I take this as an op
 
 ### All the different pages, names and organizations are confusing. Having a concise overview would be helpful.
 
-foodsharing.de ([Infos on Wikipedia](https://en.wikipedia.org/wiki/Foodsharing.de)) stands for multiple things at once:
+[foodsharing.de](https://foodsharing.de) ([Infos on Wikipedia](https://en.wikipedia.org/wiki/Foodsharing.de)) stands for multiple things at once:
 - the association foodsharing e.V. that is located in Cologne
 - a website, that enables people to private peer-to-peer foodsharing
 - a website, that provides infrastructure for people to organize the saving of surplus food from cooperating stores
@@ -28,7 +28,7 @@ foodsharing.de ([Infos on Wikipedia](https://en.wikipedia.org/wiki/Foodsharing.d
 
 ### Is it okay to send ideas about possible features to you, which are not part of the current [foodsharing.de website](https://foodsharing.de) but could be included in foodsaving.world?
 
-Yes, for sure! Since we are not aiming for copying foodsharing.de, we have a lot of freedom and are looking for the _best_ possible solution for all users. Feedback and suggestions are always appreciated!
+Yes, for sure! Since we are not aiming for copying foodsharing.de, we have a lot of freedom and are looking for the best possible solution for all users. Feedback and suggestions are always appreciated!
 
 You can write to us in English or German.
 

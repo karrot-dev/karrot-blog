@@ -14,7 +14,7 @@ In den letzten Tagen gab es ein paar Fragen. Das nehme ich nun zum Anlass, sie a
 
 ### Die vielen Seiten, Namen, Organisationen sind verwirrend. Ein kurzer Überblick wäre hilfreich.
 
-foodsharing.de ([Infos auf Wikipedia](https://de.wikipedia.org/wiki/Foodsharing.de)) meint mehrere Dinge zugleich:
+[foodsharing.de](https://foodsharing.de/) ([Infos auf Wikipedia](https://de.wikipedia.org/wiki/Foodsharing.de)) meint mehrere Dinge zugleich:
 - den foodsharing e.V. mit Sitz in Köln
 - eine Webseite, auf der Leute von privat zu privat Lebensmittel tauschen können
 - eine Webseite, auf der sich Leute organisieren, um von Betrieben überschüssige Lebensmittel abzuholen und zu verteilen
@@ -28,7 +28,7 @@ foodsharing.de ([Infos auf Wikipedia](https://de.wikipedia.org/wiki/Foodsharing.
 
 ### Darf man euch Vorschläge schicken, was man bei eurer Webseite einbauen könnte, was bei der aktuellen [foodsharing.de-Webseite](https://foodsharing.de) nicht ist?
 
-Ja, sehr gerne! Da wir nicht die foodsharing.de-Webseite identisch nachbauen, haben wir sehr viele Freiheiten und wollen die _beste_ Lösung für alle Benutzer finden. Vorschläge und Rückmeldungen freuen uns sehr!
+Ja, sehr gerne! Da wir nicht die foodsharing.de-Webseite identisch nachbauen, haben wir sehr viele Freiheiten und wollen die beste Lösung für alle Benutzer finden. Vorschläge und Rückmeldungen freuen uns sehr!
 
 Du kannst uns auf Deutsch oder Englisch schreiben.
 
@@ -75,7 +75,7 @@ Ab und zu veranstalten wir Entwicklertreffen oder andere Events. Diese veröffen
 
 ### Ich würde gerne in die foodsaving.world-Entwicklung einsteigen und habe bereits ein paar Kenntnisse. Wie kann ich mitmachen? Gibt es eine Liste mit Aufgaben?
 
-Das klingt wie Musik in meinen Ohren! :) Wir haben ein paar Aufgaben in [GitHub Issues](https://github.com/yunity/foodsaving-frontend/issues) und in der [Roadmap]((https://github.com/yunity/foodsaving-frontend/blob/master/ROADMAP.md)). 
+Das klingt wie Musik in meinen Ohren! :) Wir haben ein paar Aufgaben in [GitHub Issues](https://github.com/yunity/foodsaving-frontend/issues) und in der [Roadmap]((https://github.com/yunity/foodsaving-frontend/blob/master/ROADMAP.md)).
 
 Meistens brauchst du noch zusätzliche Infos, um die Aufgaben zu bearbeiten. Wir helfen gerne im [yunity-Chat](https://slackin.yunity.org) aus!
 
