@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  Adventures in the Code Ocean – A RailsGirls Fary Tail
-ref: railsgirls-fary-tail
+title:  Adventures in the Code Ocean – A RailsGirls Fairy Tail
+ref: railsgirls-fairy-tail
 date: 2017-09-01
 lang: en
 orig-lang: en
-author: ines
+author: id-gue
 ---
 
 
@@ -27,3 +27,6 @@ Finally – after two months – their first code was accepted and merged into t
 Now they are ready to do the next steps and add even more functionality to the feedback feature. It will not be easy but now they know that they can do it!!!
 
 The End
+
+
+A fairy tail about [Marie](https://twitter.com/mddemarie), [Ines](https://twitter.com/dankefish) and their [Summer of Code](https://railsgirlssummerofcode.org/)
