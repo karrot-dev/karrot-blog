@@ -11,7 +11,7 @@ author: id-gue
 
 Once upon a time there was an [issue](https://github.com/yunity/foodsaving-backend/issues/253) on GitHub. It looks tiny but very useful: just two new fields in the database for saving user feedback. One day two [RailsGirls](https://railsgirlssummerofcode.org/blog/2017-07-13-print_hello_world) discovered the issue. They liked it very much and so they decided that the feedback issue should be their first issue. That was the start of an adventurous journey.
 
-![](https://github.com/yunity/foodsaving-blog/blob/fairy-tale-blog-post/images/Issue253.jpg)
+![](https://github.com/yunity/foodsaving-blog/blob/fary-tail-blog-post/images/Issue253.jpg)
 
 
 You must know: the ocean of tech knowledge is incredible large! The two RailsGirls spent years at the shore working at the edge of the programming ocean. Some day they dipped their feet in the water – and it didn’t hurt. <!--more--> On the contrary it was quite exiting! So they started dreaming about going on a ship and sailing the ocean. The opportunity came: a ship of the type Python Django REST with the mission: contribute to foodsaving backend. 
