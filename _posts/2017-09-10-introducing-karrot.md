@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Introducing karrot
+title:  Introducing Karrot
 ref: introducing-karrot
 date: 2017-09-10
 lang: en
