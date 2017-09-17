@@ -12,7 +12,7 @@ title:
 email: fstool@yunity.org
 description:
   en: Presenting the latest progress in the development of foodsaving.world
-  de: Presenting the latest progress in the development of foodsaving.world
+  de: Die neuesten Entwicklungen auf foodsaving.world
 index:
   en: index.en.html
   de: index.de.html
@@ -54,11 +54,13 @@ authors:
   janina:
     display_name: Janina Abels
   fenja:
-    display_name: Fenja
+    display_name: Fenja Jacobs
   tilmann:
     display_name: Tilmann Becker
   lars:
     display_name: Lars Wolf
+  id-gue:
+    display_name: Ines Dorian Gütt
 
 collections:
   - members
