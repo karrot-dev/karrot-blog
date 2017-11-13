@@ -15,9 +15,11 @@ Launch of a new version! After months of coding, we replace our good old Angular
 - Better mobile navigation with tabs on top and bottom navbar
 - Profile pages are much richer
 
-![](karrot-wall.png)
-![](karrot-mobile.png)
-![](karrot-profile.png)
+<!--more-->
+
+![](/images/karrot-wall.png)
+![](/images/karrot-mobile.png)
+![](/images/karrot-profile.png)
 
 As developers, we are also very happy about the new internals. Here are some of them:
 
@@ -35,6 +37,6 @@ If that made you interested and you would like to participate, have a look on [G
 
 The previous karrot deployment on foodsaving.world was replaced with the new project info page that was launched on Sunday. You can still use the same login from "foodsaving.world" on karrot.world - only the domain has moved, the data stays the same.
 
-![](fsww.png)
+![](/images/fsww.png)
 
 The new info page provides an overview about all the topics relevant to foodsaving groups: how to contact stores, how to improve your community life, how to find new members and so on. It is English only for now but in the future we hope to be able to offer our knowledge in many languages and that you can help us with the translations. :)
