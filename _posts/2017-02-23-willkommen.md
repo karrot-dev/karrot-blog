@@ -14,6 +14,8 @@ massig neue Features, die Motivation ist riesig und alte sowie neue Mitstreirer
 investieren nie dagewesene Mengen an Zeit und Energie, um dieses Tool und diese
 Seite so hübsch und nützlich zu machen wie nur irgend geht.
 
+<!--more-->
+
 Das wohl offensichtlichste neue Feature ist dieser Blog...^^ Eine Teampage ist
 auch gerade im Entstehen, um transparenter zu machen, wer eigentlich die Menschen
 sind, die hinter diesem Projekt stehen. Freut euch auf (hoffentlich) hübsche Bilder

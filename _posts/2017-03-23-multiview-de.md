@@ -14,6 +14,8 @@ Um die generelle Übersichtlichkeit zu verbessern, hat @d0npiano die Betriebslis
 an den Rand geschoben. Das kannst du in der Gruppenansicht, ebenso wie in der Betriebsansicht
 sehen.
 
+<!--more-->
+
 So kannst du zu jeder Zeit die Übersichtskarte der Gruppe sehen, in der alle Betriebe
 eingzeichnet sind, während du zusätzlich die Detailkarte des gerade angewählten Betriebs
 im Blick hast. Die Beschreibung des Betriebes bzw. die Gruppendetails und die anstehenden

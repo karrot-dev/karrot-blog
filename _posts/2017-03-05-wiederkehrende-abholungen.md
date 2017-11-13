@@ -15,6 +15,8 @@ wiederkehrender Abholtermine.
 Nach langem Rumgefrikkel mit Zeitzonen, Sommerzeit und den Konsequenzen dahingehend,
 die eine hoffentlich weltweit verteilte Userbase mit sich bringt, hat @tiltec es geschafft!
 
+<!--more-->
+
 Jetzt können Benutzer sog. Serien wiederkehrender Abholtermine erstellen. Das heisst,
 wenn du weisst, dass in einem Betrieb Abholungen bspw. an jedem Dienstag und Donnerstag
 um 18 Uhr stattfinden, kannst du dies nun mit einem einzigen Befehl eintragen, yay!
