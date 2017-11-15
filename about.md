@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the development blog of foodsaving.world
+This is the development blog of karrot.world

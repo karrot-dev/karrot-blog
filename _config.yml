@@ -7,12 +7,12 @@
 
 # Site settings
 title:
-  en: foodsaving.world blog
-  de: foodsaving.world Blog
-email: fstool@yunity.org
+  en: karrot.world blog
+  de: karrot.world Blog
+email: karrot@foodsaving.world
 description:
-  en: Presenting the latest progress in the development of foodsaving.world
-  de: Die neuesten Entwicklungen auf foodsaving.world
+  en: Presenting the latest progress in the development of karrot.world
+  de: Die neuesten Entwicklungen auf karrot.world
 index:
   en: index.en.html
   de: index.de.html
@@ -36,8 +36,8 @@ translator:
   de: übersetzt von
 default_lang: en
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://blog.foodsaving.world" # the base hostname & protocol for your site
-translate_url: https://github.com/yunity/foodsaving-blog
+url: "https://blog.karrot.world" # the base hostname & protocol for your site
+translate_url: https://github.com/yunity/karrot-blog
 
 # Build settings
 markdown: kramdown
