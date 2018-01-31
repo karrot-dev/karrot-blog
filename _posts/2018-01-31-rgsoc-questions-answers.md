@@ -14,8 +14,9 @@ Last year it was a nice experience, so we applied again this year. In this post,
 
 > What do the users do at the pickup station?
 
-Before pick-ups are entered into karrot, someone in the foodsaving group has to make a cooperation with the store (or supermarket). We provide guidelines for this [in our wiki](https://yunity.atlassian.net/wiki/spaces/FSINT/pages/46203075/How+to+build+and+maintain+cooperations+with+stores).
-Usually the agreement is that pick-ups happen regularly. When a user goes there, they usually get a package of leftover food or get pointed to food that needs to be sorted. They can take the good stuff with them and throw the rest away. Afterwards, they distribute the food in their community.
+Before pick-ups are entered into karrot, someone in the foodsaving group has to make a cooperation with the store (or supermarket). We provide guidelines for this [in our wiki](https://yunity.atlassian.net/wiki/spaces/FSINT/pages/46203075/How+to+build+and+maintain+cooperations+with+stores). Usually the agreement is that pick-ups happen regularly.
+
+When a user goes there, they usually get a package of leftover food or get pointed to food that needs to be sorted. They can take the good stuff with them and throw the rest away. Afterwards, they distribute the food in their community.
 
 > Are the tasks in the [Current discussion milestone](https://github.com/yunity/karrot-frontend/milestone/9) are the ones that are open to contributions from RGSoC candidates?
 
