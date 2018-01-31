@@ -24,7 +24,7 @@ There are many tasks to work on; I listed some in the [RGSoC project description
 
 RGSoC applications are welcome to contribute to karrot anytime, also before July. Some good issues are the ["starter tasks"](https://github.com/yunity/karrot-frontend/issues?q=is%3Aopen+is%3Aissue+label%3Astarter-task).
 
-> Can you please elaborate about the most critical features needed by the community?
+> Can you please elaborate on the most critical features needed by the community?
 
 All of [our issues](https://github.com/yunity/karrot-frontend/issues) are wishes by the community. I picked the ones that I found most important and feasible during RGSoC and listed them in the [project description](https://teams.railsgirlssummerofcode.org/projects/207-karrot-foodsaving-worldwide).
 
