@@ -8,6 +8,10 @@ orig-lang: en
 author: tilmann
 ---
 
+Last year it was a nice experience, so we applied again this year. In this post, I'm going to publish answers to questions that arise from time to time. Expect updates!
+
+<!--more-->
+
 > What do the users do at the pickup station?
 
 Before pick-ups are entered into karrot, someone in the foodsaving group has to make a cooperation with the store (or supermarket). We provide guidelines for this [in our wiki](https://yunity.atlassian.net/wiki/spaces/FSINT/pages/46203075/How+to+build+and+maintain+cooperations+with+stores).
@@ -17,7 +21,7 @@ Usually the agreement is that pick-ups happen regularly. When a user goes there,
 
 There are many tasks to work on; I listed some in the [RGSoC project description](https://teams.railsgirlssummerofcode.org/projects/207-karrot-foodsaving-worldwide). Until RGSoC starts in July, new ones will have arrived, and maybe some of them will already be implemented.
 
-RGSoC applications are welcome to contribute to karrot anytime, also before July. Some good issues are the "starter tasks": https://github.com/yunity/karrot-frontend/issues?q=is%3Aopen+is%3Aissue+label%3Astarter-task
+RGSoC applications are welcome to contribute to karrot anytime, also before July. Some good issues are the ["starter tasks"](https://github.com/yunity/karrot-frontend/issues?q=is%3Aopen+is%3Aissue+label%3Astarter-task).
 
 > Can you please elaborate about the most critical features needed by the community?
 
