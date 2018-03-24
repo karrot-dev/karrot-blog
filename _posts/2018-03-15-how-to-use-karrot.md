@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  How to use karrot.world
+title:  How to use Karrot.world
 ref: howto
 date: 2018-03-15
 lang: en
@@ -14,7 +14,7 @@ First of all: This guide mainly focuses on the desktop version of Karrot. The mo
 
 ## Group list, group map and signup
 
-We don't have a landing page anymore. When you access karrot.world nowadays, you will directly see the group list page with the group overview map.
+We don't have a landing page anymore. When you access Karrot.world nowadays, you will directly see the group list page with the group overview map.
 
 ![Group list page with group overview map](/images/howto/groupPreview_en.png)
 _On the left you can scroll through the groups or directly address them via the search bar._
@@ -45,7 +45,46 @@ Wall messages support [markdown formatting](https://github.com/adam-p/markdown-h
 
 When clicking on your user name on the top right, you will go to your personal profile page. It should look like this:
 
-![Empty profile](/images/howto/emptyProfile_en.jpg)
+![Empty profile](/images/howto/emptyProfile_en.png)
 _Not much information on there yet..._
 
 Now you may want to add some content on here. Keep in mind that your profile is not relative to the group you're in, which means, that your playground profile is the same as your profile in every other group you enter. If you change it in one place it changes everywhere.
+
+To edit your profile click the round green pencil button or click the three dots menu in the upper right corner and select 'Settings'. That will lead you to your personal settings page:
+
+![Personal settings page](/images/howto/profileSettings_en.png)
+_All your personal data can be adapted here._
+
+As you can see, you can add a picture, a description, a phone number, a location, change your display name, email address and password here.
+
+To set a marker to the map, you need to write in the location field and then click on one of the suggestions. Alternatively you can just double-click in the map. Afterwards the map marker can be dragged and dropped and the text in the location field can be changed as well. If you don't want to show a map on your profile, you can also just write text in the location field without clicking any of the suggestions. (This is true for all location fields, also those of groups and stores.)
+
+After submitting the changes you should be redirected to your profile, but so far you're not, so why don't you just click on your name in the upper right corner to see the changes you've made? ;)
+
+With a picture, a description and a location your profile could now look somehow like this:
+
+![Fuller profile](/images/howto/fullerProfile_en.png)
+_There's still a lot of room for more info!_
+
+## Navigation
+
+Now we'll take a look at how to generally find your way through Karrot, shall we?
+
+Click on the Karrot logo in the upper left corner and you'll be taken back to the group wall. That always works, wherever you are. From there you can navigate using the sidebar on the left:
+
+![Group wall with marked sidebar](groupWallSidebar_en.png)
+_The sidebar is the navigational section on the left._
+
+The sidebar consists of three collapsible elements:
+- the map
+- the group panel
+- the store list
+
+The map displays the group's stores by default. It can also display the member's locations and be toggled to fullscreen.
+
+The group panel has a lot of buttons, which take you to all the important pages on Karrot. But before we go into that, let me explain the icons directly in the header or the different panels:
+
+![Sidebar with collapsed elements](sidebarCollapsed_en.png)
+_All elements in the sidebar can also be collapsed._
+
+The map is indicated by the map symbol: <i class="fa fa-map"></i>
