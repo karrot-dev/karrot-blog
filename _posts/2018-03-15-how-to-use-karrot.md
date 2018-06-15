@@ -12,9 +12,11 @@ A lot has changed since we posted [our walkthrough](/2017/05/11/walkthrough.html
 
 First of all: This guide mainly focuses on the desktop version of Karrot. The mobile version looks slightly different, but comes with all features mentioned here.
 
-## Group list, group map and signup
+### Group list, group map and signup
 
 We don't have a landing page anymore. When you access Karrot.world nowadays, you will directly see the group list page with the group overview map.
+
+<!--more-->
 
 ![Group list page with group overview map](/images/howto/groupPreview_en.png)
 _On the left you can scroll through the groups or directly address them via the search bar._
@@ -26,11 +28,11 @@ _This is where you create an account._
 
 After completing the signup you will be redirected to the group list, where you now can join a group. Furthermore, you will receive an email, which asks you to verify your email address. If you decide not to verify your email address, we won't be able to send notification mails to you.
 
-## Playground
+### Playground
 
 If you first want to accustom yourself to the software and simply click around a bit, then the group 'Playground' is where you should go!
 
-## Group wall
+### Group wall
 
 The first page you see when joining a group is the group wall.
 
@@ -41,7 +43,7 @@ On the group wall people can post messages. Every message triggers a notificatio
 
 Wall messages support [markdown formatting](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and [emoji](https://www.webpagefx.com/tools/emoji-cheat-sheet/) - just try it out and you'll see! :)
 
-## Your profile
+### Your profile
 
 When clicking on your user name on the top right, you will go to your personal profile page. It should look like this:
 
@@ -66,7 +68,7 @@ With a picture, a description and a location your profile could now look somehow
 ![Fuller profile](/images/howto/fullerProfile_en.png)
 _There's still a lot of room for more info!_
 
-## Navigation
+### Navigation
 
 Now we'll take a look at how to generally find your way through Karrot, shall we?
 
@@ -76,9 +78,9 @@ Click on the Karrot logo in the upper left corner and you'll be taken back to th
 _The sidebar is the navigational section on the left._
 
 The sidebar consists of three collapsible elements:
-- the map
-- the group panel
-- the store list
+- <i class="fa fa-map">the map</i>
+- <i class="fa fa-home">the group panel</i>
+- <i class="fa fa-shopping-cart">the store list</i>
 
 The map displays the group's stores by default. It can also display the member's locations and be toggled to fullscreen.
 
@@ -86,5 +88,3 @@ The group panel has a lot of buttons, which take you to all the important pages 
 
 ![Sidebar with collapsed elements](sidebarCollapsed_en.png)
 _All elements in the sidebar can also be collapsed._
-
-The map is indicated by the map symbol: <i class="fa fa-map"></i>
