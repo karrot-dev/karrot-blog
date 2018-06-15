@@ -74,7 +74,7 @@ Now we'll take a look at how to generally find your way through Karrot, shall we
 
 Click on the Karrot logo in the upper left corner and you'll be taken back to the group wall. That always works, wherever you are. From there you can navigate using the sidebar on the left:
 
-![Group wall with marked sidebar](groupWallSidebar_en.png)
+![Group wall with marked sidebar](/images/howto/groupWallSidebar_en.png)
 _The sidebar is the navigational section on the left._
 
 The sidebar consists of three collapsible elements:
@@ -86,5 +86,5 @@ The map displays the group's stores by default. It can also display the member's
 
 The group panel has a lot of buttons, which take you to all the important pages on Karrot. But before we go into that, let me explain the icons directly in the header or the different panels:
 
-![Sidebar with collapsed elements](sidebarCollapsed_en.png)
+![Sidebar with collapsed elements](/images/howto/sidebarCollapsed_en.png)
 _All elements in the sidebar can also be collapsed._
