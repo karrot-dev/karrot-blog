@@ -37,7 +37,7 @@ jobs:
           at: ./
       - run:
           name: Deploy
-          command: ./deploy.sh
+          command: "rsync -avz --delete _site/ deploy@yuca.yunity.org:foodsaving-blog/master/"
 workflows:
   version: 2
   test-deploy:
