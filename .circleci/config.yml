@@ -37,7 +37,7 @@ jobs:
           at: ./
       - run:
           name: install rsync
-          command: sudo apt install -y rsync
+          command: sudo apt-get update && sudo apt install -y rsync
       - run:
           name: Deploy
           command: "rsync -avz --delete _site/ deploy@yuca.yunity.org:foodsaving-blog/master/"
