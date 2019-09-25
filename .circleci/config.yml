@@ -36,6 +36,9 @@ jobs:
       - attach_workspace:
           at: ./
       - run:
+          name: install rsync
+          command: apt install -y rsync
+      - run:
           name: Deploy
           command: "rsync -avz --delete _site/ deploy@yuca.yunity.org:foodsaving-blog/master/"
 workflows:
