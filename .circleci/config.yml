@@ -37,7 +37,7 @@ jobs:
           at: ./
       - run:
           name: Deploy
-          command: ~/deploy.sh
+          command: ./deploy.sh
 workflows:
   version: 2
   test-deploy:
