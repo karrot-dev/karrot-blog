@@ -8,8 +8,8 @@ To work locally with this project, you need Jekyll.
 Then fork or clone this repository and get the bundle dependencies:
 
 ```sh
-git clone https://github.com/yunity/foodsaving-blog
-cd foodsaving-blog
+git clone https://github.com/yunity/karrot-blog
+cd karrot-blog
 bundle install
 ```
 
