@@ -39,6 +39,9 @@ jobs:
           name: install rsync
           command: sudo apt-get update && sudo apt install -y rsync
       - run:
+          name: add known hosts
+          command: ssh-keyscan yuca.yunity.org >> ~/.ssh/known_hosts
+      - run:
           name: Deploy
           command: "rsync -avz --delete _site/ deploy@yuca.yunity.org:foodsaving-blog/master/"
 workflows:
