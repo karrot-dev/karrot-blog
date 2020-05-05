@@ -240,3 +240,25 @@ As far as I know, there's no comparable open source project out there.
 
 I looked at [ZoneMTA](https://github.com/zone-eu/zone-mta), [Haraka](https://haraka.github.io/) and [mailcow](https://mailcow.email/), but they all have different scopes.
 ZoneMTA is the only one of them that offers a HTTP API for sending emails, but it doesn't support receiving them.
+
+## Update 2020-05-05: Enable STARTTLS
+
+I just noticed that STARTTLS is not enabled by default - no wonder, it doesn't have a certificate. To enable it, add those lines to `postal.yml` (inside container):
+
+```
+smtp_server:
+  tls_enabled: true
+  tls_certificate_path: "/opt/postal/config/cert/fullchain.pem"
+  tls_private_key_path: "/opt/postal/config/cert/privkey.pem"
+```
+
+I wanted to use the certificates from the reverse HTTP proxy, which runs on the host system. To have the certificate files accessible in docker, I added a read-only bind mount to `docker-compose.yml`:
+
+```
+services:
+  postal:
+    volumes:
+      - /var/www/postal/cert:/opt/postal/config/cert:ro
+```
+
+Then restart postal.
