@@ -1,0 +1,12 @@
+#!/bin/bash
+
+set -eu
+
+docker build -t karrot-blog .
+docker run \
+  -u $(id -u) \
+  -it --rm \
+  --workdir /app \
+  -v $(pwd):/app \
+  karrot-blog \
+  bundle exec jekyll build
